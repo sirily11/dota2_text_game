@@ -1,4 +1,4 @@
-from .base_skills import BaseSkill
+from dota2.base_skills import BaseSkill
 from typing import List
 
 
